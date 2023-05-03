@@ -1,0 +1,11 @@
+build
+*pycache*
+associations.txt
+KeyFrameTrajectory.txt
+*.json
+*.so
+*.pyc
+*.o
+CameraTrajectory.txt
+r2d2/*pycache*
+rgbd_tum
