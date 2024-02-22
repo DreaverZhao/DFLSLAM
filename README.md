@@ -2,8 +2,6 @@
 
 Deep Feature based Life-long SLAM
 
-The project is still under construction
+This is a naive engineering work combining deep features with a conventional key-points based visual-SLAM framework ([ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) to be specific) for my SRTP (Student Research Training Program) as an undergraduate student. Do not expect superior performances over existing methods or real-time capabilities.
 
-You may not be able to run it straight away
-
-Please wait for the release of the first version
+The project is still under construction for easier deployment.
